@@ -42,13 +42,16 @@ The aim of this project was to design a professional and elegant user interface 
 ### 🔧 Installation
 
 1. Clone this repository:
+
    git clone https://github.com/Bishnu-prasad-Sahu/Fully-Responsive-Shoe-Company-Frontend.git
 
 2. Navigate to the project directory:
+
     cd shoe-company-frontend
 
 
 If you're using Tailwind CLI or PostCSS, make sure to build the final CSS using:
+
     npx tailwindcss -i ./input.css -o ./style.css --watch
 
 
