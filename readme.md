@@ -43,11 +43,11 @@ The aim of this project was to design a professional and elegant user interface 
 
 1. Clone this repository:
 
-   git clone https://github.com/Bishnu-prasad-Sahu/Fully-Responsive-Shoe-Company-Frontend.git
+        git clone https://github.com/Bishnu-prasad-Sahu/Fully-Responsive-Shoe-Company-Frontend.git
 
 2. Navigate to the project directory:
 
-        cd shoe-company-frontend
+        cd shoe-company
 
 
 If you're using Tailwind CLI or PostCSS, make sure to build the final CSS using:
@@ -57,21 +57,28 @@ If you're using Tailwind CLI or PostCSS, make sure to build the final CSS using:
 
 📂 Folder Structure
 
-shoe-company-frontend/
-├── index.html
-├── style.css               
-├── tailwind.config.js      
-├── input.css               
-├── homepage.png
-└── products.png
-└── README.md
+shoe-company/
+
+
+        ├── index.html
+        ├── style.css               
+        ├── tailwind.config.js      
+        ├── input.css               
+        ├── homepage.png
+        └── products.png
+        └── README.md
 
 
 📈 Future Improvements
+
 Integrate JavaScript for interactivity (e.g., cart system, product filtering)
+
 Add backend for product management and checkout
+
 Improve accessibility with ARIA roles and semantic tags
+
 Add animation using Tailwind plugins or Framer Motion
+
 Lime Demo will be updated soon
 
 Author : Bishnu Prasad Sahu
