@@ -47,12 +47,12 @@ The aim of this project was to design a professional and elegant user interface 
 
 2. Navigate to the project directory:
 
-    cd shoe-company-frontend
+        cd shoe-company-frontend
 
 
 If you're using Tailwind CLI or PostCSS, make sure to build the final CSS using:
 
-    npx tailwindcss -i ./input.css -o ./style.css --watch
+        npx tailwindcss -i ./input.css -o ./style.css --watch
 
 
 📂 Folder Structure
