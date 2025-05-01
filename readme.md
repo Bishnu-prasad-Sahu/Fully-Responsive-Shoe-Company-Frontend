@@ -56,7 +56,8 @@ If you're using Tailwind CLI or PostCSS, make sure to build the final CSS using:
 
 
 You can vite the website live at [https://bishnu-prasad-sahu.github.io/Fully-Responsive-Shoe-Company-Frontend/](https://bishnu-prasad-sahu.github.io/Fully-Responsive-Shoe-Company-Frontend/)
-(If it is not working in chrome you open it in brave)
+
+(If it is not working in chrome you can open it in brave)
 
 📂 Folder Structure
 
