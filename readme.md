@@ -55,6 +55,8 @@ If you're using Tailwind CLI or PostCSS, make sure to build the final CSS using:
         npx tailwindcss -i ./input.css -o ./style.css --watch
 
 
+You can vite the website live at [https://bishnu-prasad-sahu.github.io/Fully-Responsive-Shoe-Company-Frontend/](https://bishnu-prasad-sahu.github.io/Fully-Responsive-Shoe-Company-Frontend/)
+
 📂 Folder Structure
 
 shoe-company/
@@ -78,7 +80,5 @@ Add backend for product management and checkout
 Improve accessibility with ARIA roles and semantic tags
 
 Add animation using Tailwind plugins or Framer Motion
-
-Lime Demo will be updated soon
 
 Author : Bishnu Prasad Sahu
